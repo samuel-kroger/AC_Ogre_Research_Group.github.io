@@ -1,26 +1,25 @@
 <div style="text-align: center;">
 ---
-title: Home
+##The Ogre Research Group
 ---
 </div>
 
-
+## Welcome!
+This is the Ogre research group. It is run by me ([Samuel Kroger](https://samuel-kroger.github.io/)). You will find projects written by students I have mentored at Austin College. 
 
 ## Purpose
 
-Personal Website [Samuel Kroger](https://samuel-kroger.github.io/).
+At the Ogre Research Group we have three goals:
 
-1. Place
+1. Create quality coding tutorials centered around topics in Data Science or Applied Mathematics
 
-2. Holder
+2. Publish novel datasets
 
-3. List
-
-## An image placeholder section
-
-![Figure 1](images/samuel_kroger.jpg?raw=true "Picture of Dr. Kroger")
+3. Publish narrative accounts of the research process.
 
 ## Student Projects
+
+1. [Carbon Reporting](pages/carbon_reporting) (2025 - current): Project by Mofe
 
 
 
