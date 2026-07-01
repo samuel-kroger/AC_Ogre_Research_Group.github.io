@@ -1,7 +1,7 @@
 <div style="text-align: center;">
 
 # The Ogre Research Group
-
+ 
 </div>
 
 ## Welcome!
@@ -21,7 +21,7 @@ At the Ogre Research Group we have three goals:
 
 1. [Carbon Reporting](pages/carbon_reporting) (2025 - current): Project by Mofe
 
-2. [Carbon Reporting](pages/markov_library) (2026 - current): Project by Isidore
+2. [Markov Library](pages/markov_library) (2026 - current): Project by Isidore
 
 
 

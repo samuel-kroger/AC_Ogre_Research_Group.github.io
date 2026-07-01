@@ -4,9 +4,11 @@ See below a list of current and past students that have contributed to the Ogre 
 
 ## Current Students
 
-1. Mofe
-2. someone
-3. another pesron 
+1. Eyinimofe Aderogba
+2. Isidore Peterson
+3. Jasper Tso
+4. Stephen Proft
+5. Dario Henriquez 
 
 ## Past Students
 
