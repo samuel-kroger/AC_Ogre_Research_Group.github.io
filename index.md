@@ -1,11 +1,11 @@
 <div style="text-align: center;">
----
-##The Ogre Research Group
----
+
+# The Ogre Research Group
+
 </div>
 
 ## Welcome!
-This is the Ogre research group. It is run by me ([Samuel Kroger](https://samuel-kroger.github.io/)). You will find projects written by students I have mentored at Austin College. 
+This is the Ogre research group. It is run by me ([Samuel Kroger](https://samuel-kroger.github.io/)). You will find projects authored by students I have mentored at Austin College. 
 
 ## Purpose
 
@@ -20,6 +20,8 @@ At the Ogre Research Group we have three goals:
 ## Student Projects
 
 1. [Carbon Reporting](pages/carbon_reporting) (2025 - current): Project by Mofe
+
+2. [Carbon Reporting](pages/markov_library) (2026 - current): Project by Isidore
 
 
 
